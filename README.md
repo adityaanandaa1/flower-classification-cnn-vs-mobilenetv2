@@ -82,10 +82,10 @@ Notebook ditulis untuk Colab (memakai `google.colab.files` dan path `/content/`)
 
 ## Tim
 
-Aditya Ananda Kasi
-Dina Arimaya Putri
-Anggita Ramanda Sephia
-Bonaventura Kevin Andhika Wisesa
+- Aditya Ananda Kasi
+- Dina Arimaya Putri
+- Anggita Ramanda Sephia
+- Bonaventura Kevin Andhika Wisesa
 ## Lisensi
 
 [MIT](LICENSE). Dataset memiliki lisensi sendiri (Apache 2.0) dari penyedianya di Kaggle.
