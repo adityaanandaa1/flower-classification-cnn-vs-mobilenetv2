@@ -1,0 +1,20 @@
+# Kredensial Kaggle (jangan pernah di-commit)
+kaggle.json
+
+# Model dan dataset
+*.keras
+*.h5
+Flower/
+flowers14/
+flowers_split/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
